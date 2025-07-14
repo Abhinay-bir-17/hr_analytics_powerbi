@@ -2,7 +2,7 @@
 
 An interactive and insightful HR analytics dashboard built using Power BI, aimed at helping organizations monitor key HR metrics, improve employee performance, and boost retention rates.
 
-![5. Final](images/4_adding_charts.png)
+![5. Final](images/5_final.png)
 
 ## 📊 Project Overview
 
