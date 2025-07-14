@@ -2,6 +2,8 @@
 
 An interactive and insightful HR analytics dashboard built using Power BI, aimed at helping organizations monitor key HR metrics, improve employee performance, and boost retention rates.
 
+![5. Final](images/4_adding_charts.png)
+
 ## 📊 Project Overview
 
 This project presents a professional HR dashboard that visualizes critical human resources data in a meaningful and interactive way. The dashboard provides department-level filtering and highlights key performance indicators (KPIs) such as:
@@ -18,8 +20,12 @@ This project presents a professional HR dashboard that visualizes critical human
 - **Power Query (M)** – For data transformation and preprocessing  
 
 ## Flow of the Project
+Making of KPI
 ![1. Making of KPI](images/making_kpi.png)
-
+![2. Creating kpis](images/2_creating_attritionCount_colm.png)
+![3. All Kpis](images/3_all_kpis_done.png)
+![4. Adding Charts](images/4_adding_charts.png)
+![5. Final](images/4_adding_charts.png)
 
 ## 🛠 Features
 
@@ -30,13 +36,17 @@ This project presents a professional HR dashboard that visualizes critical human
 
 
 ## 🔍 Insights Uncovered
-
 The dashboard enables HR teams and leadership to:
 
-- Identify departments with high attrition
-- Understand average tenure across roles
-- Track salary distribution across age groups
-- Make data-driven decisions to enhance retention
+Identify roles and salary brackets with high attrition: Most attrition is among employees earning less than ₹5K and those in roles like Laboratory Technician, Sales Executive, and Research Scientist.
+
+Understand attrition trends by experience and age: Highest attrition occurs within the first year and primarily among employees aged 26–35.
+
+Analyze gender-wise attrition: Male employees account for nearly twice the attrition compared to female employees.
+
+Track attrition by educational background: Employees with Life Sciences and Medical backgrounds show higher attrition levels.
+
+Support data-driven decisions: Helps in targeting retention strategies based on job roles, salary, tenure, and demographics.
 
 ## 📬 Contact
 
