@@ -20,12 +20,20 @@ This project presents a professional HR dashboard that visualizes critical human
 - **Power Query (M)** – For data transformation and preprocessing  
 
 ## Flow of the Project
-Making of KPI
+ 1. Making of KPI
 ![1. Making of KPI](images/making_kpi.png)
+
+ 2. Created all the KPI's
 ![2. Creating kpis](images/2_creating_attritionCount_colm.png)
+
+ 3. KPI's done, now Charts
 ![3. All Kpis](images/3_all_kpis_done.png)
+
+ 4. Adding Charts
 ![4. Adding Charts](images/4_adding_charts.png)
-![5. Final](images/4_adding_charts.png)
+
+5. Final view of dashboard
+![5. Final](images/5_final.png)
 
 ## 🛠 Features
 
